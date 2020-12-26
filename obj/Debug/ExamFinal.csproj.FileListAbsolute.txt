@@ -1,0 +1,7 @@
+D:\Programming\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe.config
+D:\Programming\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe
+D:\Programming\ExamFinal\ExamFinal\bin\Debug\ExamFinal.pdb
+D:\Programming\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csprojAssemblyReference.cache
+D:\Programming\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csproj.CoreCompileInputs.cache
+D:\Programming\ExamFinal\ExamFinal\obj\Debug\ExamFinal.exe
+D:\Programming\ExamFinal\ExamFinal\obj\Debug\ExamFinal.pdb
